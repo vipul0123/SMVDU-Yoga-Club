@@ -182,3 +182,49 @@ h3{
         flex-direction: column;
     }
 }
+
+.contact {
+    margin: 100px auto;
+    width: 80%;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/contact_us.jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.contact h1{
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
+@media(max-width: 700px) {
+    .contact h1{
+        font-size: 24px;
+    }
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.icons .fa{
+    color: #f44336;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
+
+.fa-heart{
+    color: #f44336;
+}
