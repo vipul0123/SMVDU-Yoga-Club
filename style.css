@@ -278,3 +278,8 @@ h3{
 .red-btn:hover{
     color: #fff;
 }
+
+/* Courses Page styles */
+.courses-header{
+    background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)), url('images/courses.jpeg');
+}
