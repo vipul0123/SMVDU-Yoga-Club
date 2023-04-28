@@ -25,7 +25,7 @@ This page has the detailed information about the courses YogaHub offers, so the 
 Last but not the least we have contact information on this page, including phone number, physical address, email address, or any queries.
 ![Screenshot](https://github.com/Haris-Noori/yoga-website/blob/main/screenshots/four.png)
 
-### Here are the responsivness on the mobile screens
+### Here are the responsivness on the mobile screens Tests
 ![Screenshot](https://github.com/Haris-Noori/yoga-website/blob/main/screenshots/five.png)
 
 
@@ -37,7 +37,11 @@ Last but not the least we have contact information on this page, including phone
 ### Extra feature/Bug fixed
 Added a few line of JavaScript to make the menu toggling when on mobile screens.
 
+### Images
+All of the images used in this website are taken from pixabay.com
 
+## Deployment
+You can find the live website here: https://haris-noori.github.io/yoga-website/
 
 
 Happy coding!
