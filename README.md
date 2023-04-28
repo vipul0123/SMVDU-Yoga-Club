@@ -34,4 +34,10 @@ Last but not the least we have contact information on this page, including phone
 
 
 
+### Extra feature/Bug fixed
+Added a few line of JavaScript to make the menu toggling when on mobile screens.
+
+
+
+
 Happy coding!
