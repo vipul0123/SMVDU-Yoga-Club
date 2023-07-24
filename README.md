@@ -42,6 +42,9 @@ Last but not the least we have contact information on this page, including phone
 ### HTML
    No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fharis-noori.github.io%2Fyoga-website)
 
+### CSS
+No errors were found when passing through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fharis-noori.github.io%2Fyoga-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
 
 ### Extra feature/Bug fixed
 Added a few line of JavaScript to make the menu toggling when on mobile screens.
