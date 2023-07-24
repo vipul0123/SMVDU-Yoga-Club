@@ -1,4 +1,4 @@
-#### YogaHub
+# YogaHub
 
 ![Logo](https://github.com/Haris-Noori/yoga-website/blob/main/assets/img/logo-sm.png)
 
