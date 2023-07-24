@@ -7,7 +7,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('images/bg.jpeg');
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('../img/bg.jpeg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -170,7 +170,7 @@ h3{
 .contact {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/contact_us.jpeg');
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/contact_us.jpeg');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -214,7 +214,7 @@ h3{
 .sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('images/about_us.jpeg');
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('../img/about_us.jpeg');
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -250,11 +250,11 @@ h3{
 .red-btn:hover{ color: #fff; }
 
 .courses-header{
-    background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)), url('images/courses.jpeg');
+    background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)), url('../img/courses.jpeg');
 }
 
 .contact-header {
-    background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)), url('images/contact_us_1.jpeg');
+    background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)), url('../img/contact_us_1.jpeg');
 }
 
 .location {
