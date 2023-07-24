@@ -7,7 +7,7 @@ YogaHub is an online platform for all the yoga and meditation lovers around the 
 
 ![Am I Responsive Mockup](https://github.com/Haris-Noori/yoga-website/blob/main/assets/img/screenshots/AmIResponsive.png)
 
-### Features
+## Features
 This website has four pages,
 - HOME
 - ABOUT
@@ -31,7 +31,7 @@ This page has the detailed information about the courses YogaHub offers, so the 
 Last but not the least we have contact information on this page, including phone number, physical address, email address, or any queries.
 ![Screenshot](https://github.com/Haris-Noori/yoga-website/blob/main/assets/img/screenshots/four.png)
 
-### Here are the responsivness on the mobile screens Tests
+## Mobile Testing - Screenshot of results
 ![Screenshot](https://github.com/Haris-Noori/yoga-website/blob/main/assets/img/screenshots/five.png)
 
 
