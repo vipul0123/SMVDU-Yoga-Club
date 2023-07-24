@@ -2,6 +2,9 @@
 
 Welcome, This is Yoga Hub Website's git repository.
 YogaHub is an online platform for all the yoga and meditation lovers around the world. This website provides yoga courses, together or individually seperate classes. So you can do yoga and train in your own way, anywhere or anytime, from any instructor you like.
+
+![Am I Responsive Mockup](https://github.com/Haris-Noori/yoga-website/blob/main/assets/img/screenshots/one.png)
+
 This website has four pages,
 - HOME
 - ABOUT
