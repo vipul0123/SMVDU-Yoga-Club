@@ -38,6 +38,9 @@ Last but not the least we have contact information on this page, including phone
 
 ![Screenshot](https://github.com/Haris-Noori/yoga-website/blob/main/assets/img/screenshots/six.png)
 
+## Validator Testing
+### HTML
+   No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fharis-noori.github.io%2Fyoga-website)
 
 
 ### Extra feature/Bug fixed
