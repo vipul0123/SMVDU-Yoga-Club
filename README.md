@@ -71,8 +71,14 @@ How can you deploy on your environent:
 You can find the live website here: https://haris-noori.github.io/yoga-website/
 
 
-### Images
-All of the ima
+## Credits
+I would like to give credits to:
+   - PixaBay, for the logo image, (https://pixabay.com/)
+   - Google FontAwesome icons, for providing beautiful icons, (https://fontawesome.com/v4/icons/)
+   - Online Convert, for converting the images into favicon, (https://www.online-convert.com/)
+
+## Acknowledgement
+My Mentor [Lauren Nicole](https://www.linkedin.com/in/lauren-nicole-popich/), for informative sessions and helpful feedback.
 
 
 Happy coding!
