@@ -51,11 +51,28 @@ Last but not the least we have contact information on this page, including phone
 ### UnFixed Bugs
    - There are no unfixed bugs left
 
-### Images
-All of the images used in this website are taken from pixabay.com
+ges used in this website are taken from pixabay.com
 
 ## Deployment
+How this project is deployed on GitHub Pages:
+   - In the GitHub repository, navigate to the Settings tab
+   - From the source section drop-down menu, select the Main Branch
+   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+How can you deploy on your environent:
+   - Go to the repostiry link (https://haris-noori.github.io/yoga-website/)
+   - Select the green "Code" dropdown button
+   - copy the repo URL and open your system terminal
+   - type in your terminal `git clone <URL>`, and enter
+   - then cd into project directory
+   - start the server with `python3 -m http.server`
+   - and it will start running on your local IP, e.g, https://127.0.0.1/, try going to this link on your browser
+     
 You can find the live website here: https://haris-noori.github.io/yoga-website/
+
+
+### Images
+All of the ima
 
 
 Happy coding!
