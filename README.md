@@ -51,8 +51,6 @@ Last but not the least we have contact information on this page, including phone
 ### UnFixed Bugs
    - There are no unfixed bugs left
 
-ges used in this website are taken from pixabay.com
-
 ## Deployment
 How this project is deployed on GitHub Pages:
    - In the GitHub repository, navigate to the Settings tab
