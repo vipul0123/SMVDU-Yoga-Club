@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.reljicd</groupId>
-    <artifactId>shopping-cart</artifactId>
+    <artifactId>SMVDU-Yoga-Club</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>shopping-cart</name>
+    <name>SMVDU-Yoga-Club</name>
     <description>Demo project for Spring Boot Shopping Cart</description>
 
     <parent>
@@ -123,6 +123,9 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                     <configuration>
+                <mainClass>your.package.name.YourMainClass</mainClass>
+            </configuration>
             </plugin>
 
                  <plugin>
