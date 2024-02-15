@@ -13,7 +13,7 @@ spec:
         app: ekart
     spec:
       containers:
-        - name: smvduyogaClubmywebsite
+        - name: smvduyogaclubmywebsite
           image: vipul0123/mywebsite:latest # Image that will be used to containers in the cluster
           imagePullPolicy: IfNotPresent
           ports:
