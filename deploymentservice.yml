@@ -18,7 +18,11 @@ spec:
           imagePullPolicy: Always
           ports:
             - containerPort: 80 # The port that the container is running on in the cluster
-
+  strategy:
+    rollingUpdate:
+      maxSurge: 1  # Maximum number of additional pods that can be created during the update
+      maxUnavailable: 1  # Maximum number of unavailable pods during the update
+    type: RollingUpdate
 
 ---
 
